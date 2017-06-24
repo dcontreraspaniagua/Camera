@@ -1,0 +1,12 @@
+int caminit();
+int camend();
+int campreview(char *time);
+int camstartpreview();
+int camstoppreview();
+int camstartrecording();
+int camstoprecording();
+int camtakepicture();
+int camstreaming();
+int motionsensor();
+int sensorinit();
+int stop();
